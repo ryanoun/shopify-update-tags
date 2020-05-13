@@ -1,0 +1,13 @@
+{
+    "name": "ryanoun/shopify-update-tags",
+    "description": "Update Product Tags",
+    "authors": [
+        {
+            "name": "Ryan Oun",
+            "email": "ryanoun14@gmail.com"
+        }
+    ],
+    "require": {
+        "phpclassic/php-shopify": "^1.1"
+    }
+}
